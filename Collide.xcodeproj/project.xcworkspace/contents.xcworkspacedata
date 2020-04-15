@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <Group
+      location = "group:/Users/64006038/Desktop/IOS Dev./learning/collisionTest1/collisionTest1/Sounds"
+      name = "Sounds">
+      <FileRef
+         location = "group:Background.mp3">
+      </FileRef>
+      <FileRef
+         location = "group:foodCollected.mp3">
+      </FileRef>
+      <FileRef
+         location = "group:fireProjectile.mp3">
+      </FileRef>
+   </Group>
+   <FileRef
+      location = "self:">
+   </FileRef>
+</Workspace>
